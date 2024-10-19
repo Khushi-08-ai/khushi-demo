@@ -1,2 +1,2 @@
 # khushi-demo
-It is Github Demo
+It is Github Demo.
